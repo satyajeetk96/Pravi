@@ -4,7 +4,6 @@ GUI
 Developed by:
 
 Satyajeet Kumar
-Roll No. - 191EE245
 
 ## Pravi - A Fully Automated System to Conduct online viva exams
 
