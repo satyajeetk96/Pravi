@@ -13,7 +13,6 @@ import speech_recognition as sr
 import time
 import pyttsx3
 import random as r
-import os
 import sys
 
 ## GUI Imports
